@@ -2,6 +2,8 @@
 
 A React web app that analyzes text input in real-time, counting words and characters while checking against social media platform limits.
 
+![Demo Screenshot](https://i.gyazo.com/a1feb79dbbb3aab7be123b5204ce4100.png) <!-- Replace with actual screenshot -->
+
 ## Features ✨
 
 - **Real-time analysis**: Instant feedback as you type

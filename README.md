@@ -31,7 +31,7 @@ git clone https://github.com/jhoangqm/word-metrics.git
 2. Navigate to project directory:
 
 ```bash
-cd social-text-analyzer
+cd word-metrics
 ```
 
 3. Install dependencies:
